@@ -12,6 +12,7 @@ https://www.inflearn.com/course/ORM-JPA-Basic/dashboard
 
 ### JPA 내용 정리
 1. [JPA 소개](https://github.com/Kimginam97/Study_Jpa_Basic/blob/master/summary/1.JPA%EC%86%8C%EA%B0%9C.md)
+2. [JPA 시작하기](https://github.com/Kimginam97/Study_Jpa_Basic/blob/master/summary/2.JPA%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0.md)
 
 
 
